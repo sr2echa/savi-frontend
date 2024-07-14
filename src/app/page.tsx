@@ -35,7 +35,7 @@ export default function LandingPage() {
                 <Github className="mr-2 h-4 w-4" /> GitHub
               </Button>
             </Link>
-            <Link href="https://github.com/chiranjeev13/saviKeyGen#README">
+            <Link href="https://gist.github.com/vaibhavgeek/ec1b82626afd392ff9bd0cc9ab7ab10d">
               <Button className="bg-[#2a2b2f] text-white hover:bg-[#4e4e4e]">
                 <BookOpen className="mr-2 h-4 w-4" /> Documentation
               </Button>

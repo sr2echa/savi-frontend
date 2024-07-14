@@ -516,7 +516,7 @@ export default function Satisfy() {
               <SheetHeader>
                 <SheetTitle className="text-white">Decrypted Text</SheetTitle>
                 <SheetDescription className="text-[#d8d8d8]">
-                  Here's your decrypted data:
+                  Here is your decrypted data:
                 </SheetDescription>
               </SheetHeader>
               <div className="mt-4 space-y-4">
